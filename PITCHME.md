@@ -17,10 +17,9 @@
 ***
 『演習テーマ』
 ###### 画像検索系APIを使ってアプリを作ろう!?
-https://slackproject-isjukuslack.c9users.io/Beginners1/
+
 https://./Add_func.jpg/
 
-Add_func.jpg
 ---
 *みんなでやったこと：　<br>
 *(1)　Google Custom Search API を取得して<br>
