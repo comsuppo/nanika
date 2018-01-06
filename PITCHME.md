@@ -1,6 +1,6 @@
 #なにか作ろう！？
 
-###### ■■■ Presents By ISjuku2017 Team beginners ■■■
+###### ■■■ Presents By ISjuku2017 Team 何か作ろう ■■■
 ### 　
 ### こんにちは！　５人合わせて
 ### なんか作ろう!?
