@@ -18,7 +18,7 @@
 『演習テーマ』
 ###### 画像検索系APIを使ってアプリを作ろう!?
 ---
-* <img src="https://github.com/comsuppo/nanika/blob/master/Add_func.jpg">
+<img src="https://raw.githubusercontent.com/comsuppo/nanika/master/Add_func.jpg">
 ---
 みんなでやったこと：
 ***
