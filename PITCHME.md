@@ -19,7 +19,13 @@
 ###### 画像検索系APIを使ってアプリを作ろう!?
 https://slackproject-isjukuslack.c9users.io/Beginners1/
 ---
-
+みんなでやったこと：　
+(1)　Google Custom Search API を取得して
+　　https://goo.gl/fBYyMr を参考にpythonで画像検索プログラムを作成し動作確認を行った。
+(2)　カスタマイズ①　元のソースでは検索した画像の保存先はカレントディレクトリだったので保存先を ./images に変更した
+Qiita
+Google Custom Search APIを使って画像収集 - Qiita
+これから、真面目にDeep Learningの勉強を始めたいと思います。 その前に、学習に必要の大量なデータがどこから入手でするかを考えないといけないです。 思付いた方法の一つはTwitter画像botから画像を収集します。 もう一...
 ---
 ＜繁田　正一＞の感想
 ***
