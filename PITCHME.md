@@ -25,10 +25,6 @@ https://github.com/comsuppo/nanika/blob/master/Add_func.jpg
 * (1)　Google Custom Search API を取得して
 * 　　https://goo.gl/fBYyMr を参考にpythonで画像検索プログラムを作成し動作確認を行った。
 * (2)　カスタマイズ①　元のソースでは検索した画像の保存先はカレントディレクトリだったので保存先を ./images に変更した
-* Qiita
-* Google Custom Search APIを使って画像収集 - Qiita
-* これから、真面目にDeep Learningの勉強を始めたいと思います。 その前に、学習に必要の大量なデータがどこから入手でするかを考えないといけないです。 
-* 思付いた方法の一つはTwitter画像botから画像を収集します。 もう一...
 ***
 ---
 ＜繁田　正一＞の感想
@@ -36,10 +32,15 @@ https://github.com/comsuppo/nanika/blob/master/Add_func.jpg
 * Web APIのコンセプトは理解しました
 * 各サイト共通のWeb Apiインターフェース仕様（プロトコル）の共通化が待たれる
 * 何もわからないでも桝澤さん、橋本さん主導で作ってみました。<br>（ありがとうございます！）
+***
 ---
 Top画面担当(index.thml)＜舛澤　知＞の感想
 ***
-* 
+* ①　「Google Custom Search API キー」の取得方法がgoogleのヘルプを読んでもよく判らなかったが、最終的には API Key を取得できた。
+* ②　「Bing Search API v7 API キー」も取得したが結局使用しなかった。(無料使用を選択できなかったので課金が心配)
+* ③　 最初に参考にした「画像収集」のソースコードが 「hashlib」でエラーになり解決策が判らなかった
+* ④　機能追加は橋本君に任せてしまった
+* ⑤　個人的に C9 で作った python プログラムを Slack に繋げるインターフェス部の作り方が未だ理解できていない
 ---
 プレゼン資料担当(Gitpitch)＜橋本  和幸＞の感想
 ***
