@@ -19,6 +19,8 @@
 ###### 画像検索系APIを使ってアプリを作ろう!?
 https://slackproject-isjukuslack.c9users.io/Beginners1/
 ---
+
+---
 ＜繁田　正一＞の感想
 ***
 * Web APIのコンセプトは理解しました
