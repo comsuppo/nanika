@@ -17,6 +17,8 @@
 ***
 『演習テーマ』
 ###### 画像検索系APIを使ってアプリを作ろう!?
+https://github.com/comsuppo/nanika/blob/master/Add_func.jpg
+
 ---
 *みんなでやったこと：　<br>
 *(1)　Google Custom Search API を取得して<br>
