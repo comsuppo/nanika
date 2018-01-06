@@ -17,8 +17,16 @@
 ***
 『演習テーマ』
 ###### 画像検索系APIを使ってアプリを作ろう!?
+
 ---
-###### 追加機能　slackからpythonを起動し結果をslackで表示
+### 追加機能
+#### Slackから画像検索
+
+1 Outgoing Webhookでcloud9にPOST
+2 cloud9で単語を画像検索
+3 Slackに検索結果を返して表示
+
+---
 
 <img src="https://raw.githubusercontent.com/comsuppo/nanika/master/Add_func.jpg">
 ---
