@@ -22,9 +22,10 @@ https://github.com/comsuppo/nanika/blob/master/Add_func.jpg
 ---
 みんなでやったこと：
 ***
-*(1)　Google Custom Search API を取得して
-*　　https://goo.gl/fBYyMr を参考にpythonで画像検索プログラムを作成し動作確認を行った。
-*(2)　カスタマイズ①　元のソースでは検索した画像の保存先はカレントディレクトリだったので保存先を ./images に変更した
+* (1)　Google Custom Search API を取得して
+* 　　https://goo.gl/fBYyMr を参考にpythonで画像検索プログラムを作成し動作確認を行った。
+* (2)　カスタマイズ①　元のソースでは検索した画像の保存先はカレントディレクトリだったので保存先を ./images に変更した
+*
 *Qiita
 *Google Custom Search APIを使って画像収集 - Qiita
 *これから、真面目にDeep Learningの勉強を始めたいと思います。 その前に、学習に必要の大量なデータがどこから入手でするかを考えないといけないです。 
