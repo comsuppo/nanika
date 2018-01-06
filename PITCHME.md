@@ -18,6 +18,8 @@
 『演習テーマ』
 ###### 画像検索系APIを使ってアプリを作ろう!?
 ---
+* 追加機能　slackからpythonを起動し結果をslackで表示
+
 <img src="https://raw.githubusercontent.com/comsuppo/nanika/master/Add_func.jpg">
 ---
 みんなでやったこと：
